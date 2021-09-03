@@ -8,6 +8,6 @@ Thanks to the rise in information technologies, it is easy for a user of the sys
 In this project, I used data provided by <a href="https://www.motivateco.com/">Motivate</a>, a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. I compared the system usage between three large cities: Chicago, New York City, and Washington, DC.
 
 
-<H2>
+<h3>
 When executing the code, user can have an interaction with Terminal to see different data accordingly.
-</H2>
+</h3>
